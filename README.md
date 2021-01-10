@@ -4,45 +4,44 @@
 文章中使用的代码我们都放在：https://github.com/zcqiand/aspnetcore-guide
 
 # 2 目录
-## 2.1 通用开发技能
-## 2.2 C#
-## 2.3 ASP.NET Core 基础知识
-## 2.4 SQL 基础知识
-## 2.5 SOLID
+*[·-·]:## 2.1 通用开发技能
+*[·-·]:## 2.2 C#
+*[·-·]:## 2.3 ASP.NET Core 基础知识
+*[·-·]:## 2.4 SQL 基础知识
+*[·-·]:## 2.5 SOLID
 ## 2.6 设计模式
-1. 什么是观察者模式
-2. 什么是中介者模式
+1. [什么是观察者模式](https://www.cnblogs.com/zcqiand/p/14257614.html)
+2. [什么是中介者模式](https://www.cnblogs.com/zcqiand/p/14257644.html)
 
 ## 2.7 依赖注入
-1. 什么是依赖注入
-2. Microsoft.Extensions.DependencyInjection入门
-3. Autofac入门
+1. [什么是依赖注入](https://www.cnblogs.com/zcqiand/p/14257641.html)
+2. [Microsoft.Extensions.DependencyInjection入门](https://www.cnblogs.com/zcqiand/p/14257661.html)
+3. [Autofac入门](https://www.cnblogs.com/zcqiand/p/14257650.html)
 
-## 2.8 对象映射
-## 2.9 API
-## 2.10 数据库
-## 2.11 ORM
-
+*[·-·]:## 2.8 对象映射
+*[·-·]:## 2.9 API
+*[·-·]:## 2.10 数据库
+*[·-·]:## 2.11 ORM
 ## 2.12 缓存
-1. 如何使用内存缓存（IMemoryCache）
-2. 如何使用分布式缓存（Redis）
+1. [如何使用内存缓存（IMemoryCache）](https://www.cnblogs.com/zcqiand/p/14257594.html)
+2. [如何使用分布式缓存（Redis）](https://www.cnblogs.com/zcqiand/p/14257582.html)
 
 ## 2.13 日志
-1. 如何使用日志(Serilog)
+1. [如何使用日志(Serilog)](https://www.cnblogs.com/zcqiand/p/14257598.html)
 
-## 2.14 任务调度
-## 2.15 实时通信
+*[·-·]:## 2.14 任务调度
+*[·-·]:## 2.15 实时通信
 ## 2.16 微服务
-### 2.17.1 消息队列
-1. RabbitMQ入门
+### 2.16.1 消息队列
+1. [RabbitMQ入门](https://www.cnblogs.com/zcqiand/p/14257673.html)
 
-### 2.17.2 消息（事件）总线
-1. 什么是事件总线
-2. 如何使用RabbitMQ实现事件总线
-3. MassTransit入门
+### 2.16.2 消息（事件）总线
+1. [什么是事件总线](https://www.cnblogs.com/zcqiand/p/14257623.html)
+2. [如何使用RabbitMQ实现事件总线](https://www.cnblogs.com/zcqiand/p/14257607.html)
+3. [MassTransit入门](https://www.cnblogs.com/zcqiand/p/14257654.html)
 
-## 2.18 其他
-1. MediatR入门
+## 2.17 其他
+1. [MediatR入门](https://www.cnblogs.com/zcqiand/p/14257683.html)
 
 ## 联系我
 * 微信公众号：南荣相如谈编程
@@ -55,9 +54,6 @@
 
 ## 捐赠支持
 项目的发展离不开你的支持，如果觉得我们的内容对于你有所帮助，请作者喝杯咖啡吧！ 后续会继续完善更新！一起加油！
-
-![](./assets/aspnetcore-guide/img/1.png)
-![](./assets/aspnetcore-guide/img/2.png)
 
 ![](./assets/aspnetcore-guide/img/zhifu.png)
 
