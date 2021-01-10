@@ -5,8 +5,13 @@
 
 # 2 目录
 *[·-·]:## 2.1 通用开发技能
-*[·-·]:## 2.2 C#
-*[·-·]:## 2.3 ASP.NET Core 基础知识
+## 2.2 C#
+1. [委托，事件和Lambda表达式](https://www.cnblogs.com/zcqiand/p/13656161.html)
+2. [异步编程（或多线程编程）)](https://www.cnblogs.com/zcqiand/p/13650062.html)
+
+## 2.3 ASP.NET Core 基础知识
+1. [Asp.Net Core WebApi入门](https://www.cnblogs.com/zcqiand/p/14258066.html)
+
 *[·-·]:## 2.4 SQL 基础知识
 *[·-·]:## 2.5 SOLID
 ## 2.6 设计模式
@@ -19,9 +24,14 @@
 3. [Autofac入门](https://www.cnblogs.com/zcqiand/p/14257650.html)
 
 *[·-·]:## 2.8 对象映射
-*[·-·]:## 2.9 API
+## 2.9 API
+1. [如何使用Swagger](https://www.cnblogs.com/zcqiand/p/14258075.html)
+
 *[·-·]:## 2.10 数据库
-*[·-·]:## 2.11 ORM
+## 2.11 ORM
+## 2.11.1 Entity Framework Core
+1. [Entity Framework Core增删改查（CRUD）](https://www.cnblogs.com/zcqiand/p/14258059.html)
+
 ## 2.12 缓存
 1. [如何使用内存缓存（IMemoryCache）](https://www.cnblogs.com/zcqiand/p/14257594.html)
 2. [如何使用分布式缓存（Redis）](https://www.cnblogs.com/zcqiand/p/14257582.html)
@@ -40,7 +50,10 @@
 2. [如何使用RabbitMQ实现事件总线](https://www.cnblogs.com/zcqiand/p/14257607.html)
 3. [MassTransit入门](https://www.cnblogs.com/zcqiand/p/14257654.html)
 
-## 2.17 其他
+## 2.17 DDD（领域驱动设计）
+1. [什么是DDD](https://www.cnblogs.com/zcqiand/p/13686640.html)
+
+## 2.18 其他
 1. [MediatR入门](https://www.cnblogs.com/zcqiand/p/14257683.html)
 
 ## 联系我
