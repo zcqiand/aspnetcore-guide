@@ -56,6 +56,9 @@
 ## 捐赠支持
 项目的发展离不开你的支持，如果觉得我们的内容对于你有所帮助，请作者喝杯咖啡吧！ 后续会继续完善更新！一起加油！
 
+![](./assets/aspnetcore-guide/img/1.png)
+![](./assets/aspnetcore-guide/img/2.png)
+
 ![](./assets/aspnetcore-guide/img/zhifu.png)
 
 ## 微信公众号
