@@ -7,7 +7,7 @@
 *[·-·]:## 2.1 通用开发技能
 ## 2.2 C#
 1. [委托，事件和Lambda表达式](https://www.cnblogs.com/zcqiand/p/13656161.html)
-2. [异步编程（或多线程编程）)](https://www.cnblogs.com/zcqiand/p/13650062.html)
+2. [异步编程（或多线程编程）](https://www.cnblogs.com/zcqiand/p/13650062.html)
 
 ## 2.3 ASP.NET Core 基础知识
 1. [Asp.Net Core WebApi入门](https://www.cnblogs.com/zcqiand/p/14258066.html)
