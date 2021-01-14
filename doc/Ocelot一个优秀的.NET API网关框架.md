@@ -3,10 +3,6 @@ Ocelot是一个用.NET Core实现并且开源的API网关，它功能强大，�
 
 # 2 如何使用Ocelot？
 **首先**，创建2个WebApi项目，WebApi01和WebApi02，地址分别https://localhost:44313和https://localhost:44390，其中WebApi01当作网关，WebApi02当作具体的微服务Api。
-```
-dotnet add package AutoMapper
-dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
-```
 
 **然后**，将Ocelot的NuGet软件包安装到WebApi01项目中。
 ```
