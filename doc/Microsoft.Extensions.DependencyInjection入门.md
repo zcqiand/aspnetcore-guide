@@ -133,4 +133,4 @@ public List<string> GetServiceLifetime([FromServices] MySingletonService singlet
 * 作用域 Scoped：每个请求内 HashCode 是相同的，不同的请求的 HashCode 是不同的
 * 瞬时（暂时）Transient：每次的 HashCode 都不同
 
-注意例子中，我们使用通过 [FromServices] 注入的，另外我们也可以选择通过 controller 构造函数注入，这是在 controller 中有两种依赖注入的实例的获取方式。
+注意例子中，我们使用通过 [FromServices] 注入的，另外我们也可以选择通过 controller 构造函数注入。

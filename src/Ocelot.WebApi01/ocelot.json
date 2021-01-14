@@ -1,0 +1,19 @@
+{
+  "Routes": [ //路由配置（注16.1版本将ReRoutes换成Routes）
+    {
+      "DownstreamPathTemplate": "/{url}", // 下游（服务提供方）服务路由模板
+      "DownstreamScheme": "https", // 下游Uri方案，http、https
+      "DownstreamHostAndPorts": [ // 服务地址和端口，如果是集群就设置多个
+        {
+          "Host": "localhost",
+          "Port": 44390
+        }
+      ],
+      "UpstreamPathTemplate": "/api/{url}", // 上游（客户端，服务消费方）请求路由模板
+      "UpstreamHttpMethod": [ "GET" ] // 允许的上游HTTP请求方法，可以写多个
+    }
+  ],
+  "GlobalConfiguration": { //全局配置
+    "BaseUrl": "https://localhost:44313" //网关对外地址
+  }
+}

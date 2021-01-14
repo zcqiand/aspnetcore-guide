@@ -21,40 +21,53 @@
 ## 2.7 依赖注入
 1. [什么是依赖注入](https://www.cnblogs.com/zcqiand/p/14257641.html)
 2. [Microsoft.Extensions.DependencyInjection入门](https://www.cnblogs.com/zcqiand/p/14257661.html)
-3. [Autofac入门](https://www.cnblogs.com/zcqiand/p/14257650.html)
+3. [Autofac一个优秀的.NET IoC框架](https://www.cnblogs.com/zcqiand/p/14257650.html)
 
-*[·-·]:## 2.8 对象映射
+## 2.8 对象映射
+1. [AutoMapper一个优秀的.NET对象-对象映射器](https://www.cnblogs.com/zcqiand/p/14278785.html)
+
 ## 2.9 API
-1. [如何使用Swagger](https://www.cnblogs.com/zcqiand/p/14258075.html)
+1. [如何使用Swagger生成API文档](https://www.cnblogs.com/zcqiand/p/14258075.html)
 
 *[·-·]:## 2.10 数据库
 ## 2.11 ORM
 ## 2.11.1 Entity Framework Core
-1. [Entity Framework Core增删改查（CRUD）](https://www.cnblogs.com/zcqiand/p/14258059.html)
+1. [如何使用Entity Framework Core实现增删改查（CRUD）](https://www.cnblogs.com/zcqiand/p/14258059.html)
 
 ## 2.12 缓存
-1. [如何使用内存缓存（IMemoryCache）](https://www.cnblogs.com/zcqiand/p/14257594.html)
-2. [如何使用分布式缓存（Redis）](https://www.cnblogs.com/zcqiand/p/14257582.html)
+1. [如何使用IMemoryCache实现内存缓存](https://www.cnblogs.com/zcqiand/p/14257594.html)
+2. [如何使用Redis实现分布式缓存](https://www.cnblogs.com/zcqiand/p/14257582.html)
 
 ## 2.13 日志
-1. [如何使用日志(Serilog)](https://www.cnblogs.com/zcqiand/p/14257598.html)
+1. [Serilog一个优秀的.NET日志框架](https://www.cnblogs.com/zcqiand/p/14257598.html)
 
-*[·-·]:## 2.14 任务调度
+## 2.14 作业调度
+1. [Quartz.NET一个优秀的作业调度框架](https://www.cnblogs.com/zcqiand/p/14257598.html)
+
 *[·-·]:## 2.15 实时通信
 ## 2.16 微服务
 ### 2.16.1 消息队列
-1. [RabbitMQ入门](https://www.cnblogs.com/zcqiand/p/14257673.html)
+1. [RabbitMQ一个优秀的.NET消息队列框架](https://www.cnblogs.com/zcqiand/p/14257673.html)
 
 ### 2.16.2 消息（事件）总线
 1. [什么是事件总线](https://www.cnblogs.com/zcqiand/p/14257623.html)
 2. [如何使用RabbitMQ实现事件总线](https://www.cnblogs.com/zcqiand/p/14257607.html)
-3. [MassTransit入门](https://www.cnblogs.com/zcqiand/p/14257654.html)
+3. [MassTransit一个优秀的.NET消息（事件）总线框架](https://www.cnblogs.com/zcqiand/p/14257654.html)
+
+### 2.16.3 API网关
+1. [Ocelot一个优秀的.NET API网关框架](https://www.cnblogs.com/zcqiand/p/14278804.html)
+
+*[·-·]:### 2.16.4 容器化
+*[·-·]:### 2.16.5 服务编排
+*[·-·]:### 2.16.6 反向代理
+*[·-·]:### 2.16.6 其他
+
 
 ## 2.17 DDD（领域驱动设计）
 1. [什么是DDD](https://www.cnblogs.com/zcqiand/p/13686640.html)
 
 ## 2.18 其他
-1. [MediatR入门](https://www.cnblogs.com/zcqiand/p/14257683.html)
+1. [MediatR一个优秀的.NET中介者框架](https://www.cnblogs.com/zcqiand/p/14257683.html)
 
 # 3 联系我
 * 微信公众号：南荣相如谈编程
