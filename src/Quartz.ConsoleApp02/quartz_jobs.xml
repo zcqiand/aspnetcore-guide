@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- This file contains job definitions in schema version 2.0 format -->
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+	<processing-directives>
+		<overwrite-existing-data>true</overwrite-existing-data>
+	</processing-directives>
+	<schedule>
+		<!--TestJob测试 任务配置-->
+		<job>
+			<name>job1</name>
+			<group>group1</group>
+			<description>job1</description>
+			<job-type>Quartz.ConsoleApp02.HelloJob,Quartz.ConsoleApp02</job-type>
+			<durable>true</durable>
+			<recover>false</recover>
+		</job>
+		<trigger>
+			<cron>
+				<name>trigger1</name>
+				<group>group1</group>
+				<job-name>job1</job-name>
+				<job-group>group1</job-group>
+				<cron-expression>0/5 * * * * ?</cron-expression>
+			</cron>
+		</trigger>
+	</schedule>
+</job-scheduling-data>
