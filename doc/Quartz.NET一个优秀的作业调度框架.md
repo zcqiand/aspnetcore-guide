@@ -1,5 +1,5 @@
 # 1 什么是Quartz.NET？
-Docker是一个功能齐全的开源作业调度系统，可以与几乎任何其他软件系统集成或一起使用。
+Quartz是一个功能齐全的开源作业调度系统，可以与几乎任何其他软件系统集成或一起使用。
 
 # 2 为什么需要Quartz.NET？
 .NET Framework通过System.Timers.Timer类具有“内置”计时器功能-为什么有人使用Quartz而不是这些标准功能？
