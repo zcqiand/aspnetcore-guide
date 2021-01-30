@@ -67,12 +67,11 @@
 *[·-·]:### 2.16.6 反向代理
 *[·-·]:### 2.16.7 其他
 
-
 ## 2.17 DDD（领域驱动设计）
-1. [什么是DDD](https://www.cnblogs.com/zcqiand/p/13686640.html)
-1. [DDD的实体、值对象、聚合根的基类和接口：设计与实现](https://www.cnblogs.com/zcqiand/p/13686640.html)
-1. [DDD的仓储（Repository）：设计与实现](https://www.cnblogs.com/zcqiand/p/13686640.html)
-1. [DDD的领域事件（DomainEvent）：设计与实现](https://www.cnblogs.com/zcqiand/p/13686640.html)
+1. [DDD领域驱动设计是什么](https://www.cnblogs.com/zcqiand/p/13686640.html)
+2. [DDD领域驱动设计：实体、值对象、聚合根](https://www.cnblogs.com/zcqiand/p/13686640.html)
+3. [DDD领域驱动设计：仓储](https://www.cnblogs.com/zcqiand/p/13686640.html)
+4. [DDD领域驱动设计：领域事件](https://www.cnblogs.com/zcqiand/p/13686640.html)
 
 ## 2.18 其他
 1. [MediatR一个优秀的.NET中介者框架](https://www.cnblogs.com/zcqiand/p/14257683.html)
