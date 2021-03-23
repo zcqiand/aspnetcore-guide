@@ -27,7 +27,11 @@
 1. [AutoMapper一个优秀的.NET对象-对象映射器](https://www.cnblogs.com/zcqiand/p/14278785.html)
 
 ## 2.9 API
+### 2.9.1 API文档
 1. [如何使用Swagger生成API文档](https://www.cnblogs.com/zcqiand/p/14258075.html)
+
+### 2.9.2 认证与授权
+1. [聊聊常见的认证与授权](https://www.cnblogs.com/zcqiand/p/14258075.html)
 
 *[·-·]:## 2.10 数据库
 ## 2.11 ORM
@@ -69,9 +73,10 @@
 
 ## 2.17 DDD（领域驱动设计）
 1. [DDD领域驱动设计是什么](https://www.cnblogs.com/zcqiand/p/13686640.html)
-2. [DDD领域驱动设计：实体、值对象、聚合根](https://www.cnblogs.com/zcqiand/p/13686640.html)
-3. [DDD领域驱动设计：仓储](https://www.cnblogs.com/zcqiand/p/13686640.html)
-4. [DDD领域驱动设计：领域事件](https://www.cnblogs.com/zcqiand/p/13686640.html)
+2. [DDD领域驱动设计：实体、值对象、聚合根](https://www.cnblogs.com/zcqiand/p/14341844.html)
+3. [DDD领域驱动设计：仓储](https://www.cnblogs.com/zcqiand/p/14341891.html)
+4. [DDD领域驱动设计：领域事件](https://www.cnblogs.com/zcqiand/p/14341874.html)
+5. [DDD领域驱动设计：CQRS](https://www.cnblogs.com/zcqiand/p/14364220.html)
 
 ## 2.18 其他
 1. [MediatR一个优秀的.NET中介者框架](https://www.cnblogs.com/zcqiand/p/14257683.html)
