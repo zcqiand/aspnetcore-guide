@@ -22,16 +22,13 @@ namespace S041.IdentityServer
                 {
                     // 定义客户端ID
                     ClientId = "client",
-
                     // 授权方式为用户密码模式授权，类型可参考GrantTypes枚举
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-
                     // 定义客户端秘钥
                     ClientSecrets =
                     {
                         new Secret("secret".Sha256())
                     },
-
                     // 允许客户端访问的范围
                     AllowedScopes = { "api1" }
                 }
