@@ -31,7 +31,10 @@
 1. [如何使用Swagger生成API文档](https://www.cnblogs.com/zcqiand/p/14258075.html)
 
 ### 2.9.2 认证与授权
-1. [聊聊常见的认证与授权](https://www.cnblogs.com/zcqiand/p/14258075.html)
+1. [IdentityServer4是什么](https://www.cnblogs.com/zcqiand/p/14593687.html)
+2. [IdentityServer4：客户端凭据模式](https://www.cnblogs.com/zcqiand/p/14593701.html)
+3. [IdentityServer4：资源所有者密码模式](https://www.cnblogs.com/zcqiand/p/14593705.html)
+4. [IdentityServer4：授权码模式](https://www.cnblogs.com/zcqiand/p/14593706.html)
 
 *[·-·]:## 2.10 数据库
 ## 2.11 ORM
@@ -80,6 +83,8 @@
 
 ## 2.18 其他
 1. [MediatR一个优秀的.NET中介者框架](https://www.cnblogs.com/zcqiand/p/14257683.html)
+2. [Topshelf一个用于使用.NET构建Windows服务框架](https://www.cnblogs.com/zcqiand/p/14613093.html)
+3. [如何使用Topshelf与.NET泛型主机建立Windows服务](https://www.cnblogs.com/zcqiand/p/14613096.html)
 
 # 3 联系我
 * 微信公众号：南荣相如谈编程

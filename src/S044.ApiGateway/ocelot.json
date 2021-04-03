@@ -1,34 +1,36 @@
 ﻿{
   "Routes": [
     {
+      "UpstreamPathTemplate": "/S044/swagger/v1/swagger.json",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
       "DownstreamPathTemplate": "/swagger/v1/swagger.json",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5011
+          "Port": 44384
         }
-      ],
-      "UpstreamPathTemplate": "/S044/swagger/v1/swagger.json",
-      "UpstreamHttpMethod": [ "GET"]
+      ]
     },
     {
+      "UpstreamPathTemplate": "/S044/{url}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
       "DownstreamPathTemplate": "/{url}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5011
+          "Port": 44384
         }
       ],
-      "UpstreamPathTemplate": "/S044/{url}",
-      "UpstreamHttpMethod": [ "GET" ],
       "AuthenticationOptions": {
         "AuthenticationProviderKey": "OcelotKey",
         "AllowedScopes": [ "api1" ]
       }
     },
     {
+      "UpstreamPathTemplate": "/auth/{url}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ],
       "DownstreamPathTemplate": "/{url}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
@@ -36,9 +38,7 @@
           "Host": "localhost",
           "Port": 5001
         }
-      ],
-      "UpstreamPathTemplate": "/auth/{url}",
-      "UpstreamHttpMethod": [ "GET", "POST" ]
+      ]
     }
   ],
   "GlobalConfiguration": {
