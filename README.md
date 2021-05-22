@@ -98,9 +98,9 @@
 # 4 捐赠支持
 项目的发展离不开你的支持，如果觉得我们的内容对于你有所帮助，请作者喝杯咖啡吧！ 后续会继续完善更新！一起加油！
 
-![](./assets/aspnetcore-guide/img/zhifu.png)
+![](./assets/img/zhifu.png)
 
 # 5 微信公众号
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-![](./assets/aspnetcore-guide/img/weixin.jpg)
+![](./assets/img/weixin.jpg)

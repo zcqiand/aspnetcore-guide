@@ -92,12 +92,12 @@ public class MyService
     }
     public void Start()
     {
-        logger.LogInformation($"启动 {this.settings.DisplayName}...");
+        logger.LogInformation($"Starting {this.settings.ServiceName}...");
     }
 
     public void Stop()
     {
-        logger.LogInformation($"停止 {this.settings.DisplayName}...");
+        logger.LogInformation($"Stopping {this.settings.ServiceName}...");
     }
 }
 ```
